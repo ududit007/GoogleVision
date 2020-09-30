@@ -1,0 +1,8 @@
+*.pyc
+*.py~
+.gitignore~
+.idea/
+.env
+.env.save
+venv_backend/
+.vscode/
